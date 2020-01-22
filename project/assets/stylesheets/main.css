@@ -48,61 +48,60 @@ table {
 }
 
 
-h1, h2, footer, header{
+
+body{
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+footer, header{
 	text-align: center;
-	color: #000000;
 }
-.bar{
-	background-color: #800080;
-	padding: 10px;
+header{
+	height: 40px;
+	width: 100%;
+	background-color: #a258e7;
+	padding: 30px;
 }
-.bar a{
-	font-size: 25px;
-	color: #ffffff;
-	padding: 10px;
+.nav-bar a{
+	color: blue;
 	text-decoration: none;
+	padding: 20px;
+}
+main{
+	padding-left: 330px;
+	padding-right: 330px;
+}
+img{
+	width: 600px;
+	height: 400px;
+}
+.date{
+	color: blue;
+	font-size: 16px;
 }
 .main-heading{
-	font-size: 35px;
-	padding-bottom: 20px;
-}
-.para-1{
-	font-size: 25px;	
-}
-.sub-section-1{
-	background-color: #d3d3d3;
-	padding-top: 30px;
-	padding-bottom: 30px;
-}
-.sub-heading{
+	color: black;
 	font-size: 30px;
 }
-.sub-section-1 p{
-	font-size: 25px;
-}
-.sub-section-2{
-	background-color: #ebe7e7;
-}
-.sub-section-2{
-	font-size: 25px;
-}
-.where{
-	font-size: 25px;
-}
-
-section{
-	padding-bottom: 20px;
+h1, h2, p, div, img {
 	padding-top: 20px;
-
-}
-p, h1, h2{
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-bottom: 20px;
 }
 footer{
-	background-color: aqua;
-}
-footer a {
-	padding: 10px;
+	height: 40px;
+	width: 100%;
+	padding-bottom: 0px;
+	background-color: #8080ec;
+	color: black;
+	padding: 15px;
 	text-decoration: none;
+}
+.read-more{
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+.read-more a{
+	text-decoration: none;
+}
+footer h6{
+	padding: 20px;
 }
