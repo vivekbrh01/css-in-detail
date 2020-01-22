@@ -50,8 +50,24 @@ table {
     background-color: #eb4034
 }
 .contact{
-    background-color: #c2db1a
+    background-color: #2f16bd
 }
 .about{
-    background-color: #07ed91
+    background-color: #09a51e
+}
+.main-heading1{
+	font-size: 60px;
+	color: #4bdfb2;
+}
+.heading2, .heading3{
+	font-size: 30px;
+	color: #4bdfb2;
+}
+.heading2 p{
+	font-size: 10px;
+	color: #e0dce7
+}
+.nav-bar1 a{
+	font-size: 20px;
+	color: #ffffff;
 }
