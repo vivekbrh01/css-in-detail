@@ -59,12 +59,12 @@ header{
 	height: 40px;
 	width: 100%;
 	background-color: #a258e7;
-	padding: 30px;
+	padding: 20px;
 }
 .nav-bar a{
 	color: blue;
 	text-decoration: none;
-	padding: 20px;
+	padding: 30px;
 }
 main{
 	padding-left: 330px;
